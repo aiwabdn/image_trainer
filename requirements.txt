@@ -1,0 +1,7 @@
+keras
+scikit-learn
+h5py
+numpy
+pandas
+opencv-python
+
